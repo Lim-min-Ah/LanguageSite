@@ -3,6 +3,7 @@
 <br>
 <img width="515" alt="image" src="https://github.com/Lim-min-Ah/LanguageSite/assets/87717513/1e80273f-c7e5-48c5-9506-21d2f43ee803">
 <br>
+<h1>게시판</h1>
 <img width="497" alt="image" src="https://github.com/Lim-min-Ah/LanguageSite/assets/87717513/84acd9aa-f314-4348-aba1-cdd0e69459e2">
 <br>
 
